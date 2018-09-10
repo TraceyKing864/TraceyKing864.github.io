@@ -1,0 +1,139 @@
+head {
+
+}
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: "New Century Schoolbook", serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 20px;
+  margin: 0px;
+}
+h1 {
+  text-align: center;
+  text-decoration: none;
+  color: #FB8C00;
+  text-shadow: 1px 1px darkslategray;
+  font-size: 30px;
+  line-height: 30px;
+  margin-top: 10px;
+  margin-bottom: 16px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+h2 {
+  text-align: left;
+  text-decoration: none;
+  color: #FB8C00;
+  font-size: 24px;
+  line-height: 24px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+p {
+  text-align: left;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+ul {
+  text-align: left;
+  text-decoration: none;
+  font-family: "New Century Schoolbook", serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: normal;
+  padding-left: 14px;
+  margin: 0px;
+}
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #FB8C00;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: #FFA726;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.header {
+  width: 80%;
+  max-width: 720px;
+  margin: auto;
+  padding-bottom: 12px;
+  font-family: cursive;
+}
+.header table{
+  width: 80%;
+  align: center;
+}
+.logo img {
+  width: 100px;
+  height: 100px;
+  align-self: right;
+}
+.myname {
+  font-size: 40px;
+  line-height: 42px;
+  text-align: center;
+  color: black;
+  text-shadow: 0 0 3px white, 0 0 15px white;
+}
+.headernav {
+  text-align: center;
+  font-size: 22px;
+  line-height: 24px;
+}
+.headernav a:link {
+  text-decoration: underline;
+}
+.navbar {
+  font-size: 20px;
+  line-height: 18px;
+  text-align: center;
+}
+.navbar hr{
+  margin: 2px;
+}
+.content {
+  margin: auto;
+  width: 80%;
+  padding-left: 24px;
+  padding-right: 24px;
+  max-width: 672px;
+}
+.content table{
+  margin: 0px;
+  width: 100%;
+}
+.footer {
+  width: 80%;
+  max-width: 720px;
+  margin: auto;
+  padding-top: 12px;
+  font-size: 12px;
+  line-height: 14px;
+  font-family: cursive;
+}
+.footer p{
+  text-align: center;
+}
+.footer hr{
+  margin: 2px;
+}
