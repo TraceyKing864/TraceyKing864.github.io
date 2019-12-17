@@ -77,7 +77,7 @@ a:active {
   max-width: 720px;
   margin: auto;
   padding-bottom: 12px;
-  font-family: cursive;
+  font-family: "Monotype Corsiva", cursive;
 }
 .header table{
   width: 80%;
@@ -129,7 +129,7 @@ a:active {
   padding-top: 12px;
   font-size: 12px;
   line-height: 14px;
-  font-family: cursive;
+  font-family: "Monotype Corsiva", cursive;
 }
 .footer p{
   text-align: center;
